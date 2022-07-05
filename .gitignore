@@ -1,0 +1,4 @@
+.env
+
+# Se ignora la carpeta de modulos
+node_modules
